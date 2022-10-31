@@ -6,7 +6,7 @@ const iniContent = () => {
             <div class="col-12 col-md-3">
                 <div class="card">
                     <div class="card-body" id="mobil 1">
-                      <img src="../images/car.png" alt="">
+                      <img src="../images/car.png" alt=""></img>
                       <p>Nama/Tipe Mobil</p>
                       <h4>Rp. 800.000/hari</h4>
                       <p>updated at 4 April 2022, 09.00</p>
@@ -18,7 +18,7 @@ const iniContent = () => {
             <div class="col-12 col-md-3">
                 <div class="card">
                     <div class="card-body" id="mobil2">
-                        <img src="public/images/car.png" alt="">
+                        <img src="public/images/car.png" alt=""></img>
                         <p>Nama/Tipe Mobil</p>
                         <h4>Rp. 800.000/hari</h4>
                         <p>updated at 4 April 2022, 09.00</p>
@@ -30,7 +30,7 @@ const iniContent = () => {
             <div class="col-12 col-md-3">
                 <div class="card">
                     <div class="card-body" id="mobil3">
-                        <img src="public/images/car.png" alt="">
+                        <img src="public/images/car.png" alt=""></img>
                         <p>Nama/Tipe Mobil</p>
                         <h4>Rp. 800.000/hari</h4>
                         <p>updated at 4 April 2022, 09.00</p>
@@ -42,7 +42,7 @@ const iniContent = () => {
             <div class="col-12 col-md-3">
                 <div class="card">
                     <div class="card-body" id="mobil4">
-                        <img src="public/images/car.png" alt="">
+                        <img src="public/images/car.png" alt=""></img>
                         <p>Nama/Tipe Mobil</p>
                         <h4>Rp. 800.000/hari</h4>
                         <p>updated at 4 April 2022, 09.00</p>
