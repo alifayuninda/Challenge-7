@@ -4,7 +4,9 @@ import axios from "axios";
 const CariMobil = () => {
 
     const [listMobil, setListMobil] = useState();
+    //eslint-disable-next-line   
     const [carType, setTypeCar] = useState();
+    //eslint-disable-next-line     
     const [dateRent, setDateRent] = useState();
 
     const getAllDataCar = async () => {
@@ -14,6 +16,7 @@ const CariMobil = () => {
     }
 
     const cari = () => {
+        //eslint-disable-next-line 
         const filterMobil = listMobil.cari
     }
 
@@ -34,10 +37,10 @@ const CariMobil = () => {
                     <div>
                         <h1>{mobil.model}</h1>
                         <p>{mobil.type}</p>
-                        <img src="" alt="" />
+                        <img src="" alt="" aria-hidden="true" />
                     </div>
                 )
-            });
+            })}
         </>
         
     );

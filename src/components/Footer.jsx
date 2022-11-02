@@ -16,16 +16,16 @@ const iniFooter = () => {
                     </div>
                     <div class="col">
                         <p>Connect with us</p>
-                        <img src="./images/contact_us.png" alt="contact">
+                        <img src="./images/contact_us.png" alt="contact"></img>
                     </div>
                     <div class="col">
                         <p>Copyright Binar 2022</p>
-                        <img src="./images/logo.png" alt="logo">
+                        <img src="./images/logo.png" alt="logo"></img>
                     </div>
                 </div>
               </div>
         </div>
-        <div class="card">
+        <div class="card"></div>
 </section>
     )
 }
